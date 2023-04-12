@@ -1,0 +1,23 @@
+PODS:
+  - DependencyDemo (0.1.0):
+    - RxSwift (~> 2.3)
+  - RxSwift (2.6.1)
+
+DEPENDENCIES:
+  - DependencyDemo (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxSwift
+
+EXTERNAL SOURCES:
+  DependencyDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DependencyDemo: 22fc25fbeee9856474aeb95a97df6fb6001f5fe8
+  RxSwift: 0147fbf94e65c6085da9540de92848189ac1c3f6
+
+PODFILE CHECKSUM: 91694f439779702a822f84d5af0270016f22e6a7
+
+COCOAPODS: 1.5.3

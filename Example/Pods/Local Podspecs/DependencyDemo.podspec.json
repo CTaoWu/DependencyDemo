@@ -1,0 +1,27 @@
+{
+  "name": "DependencyDemo",
+  "version": "0.1.0",
+  "summary": "A short description of DependencyDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/525401043@qq.com/DependencyDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "525401043@qq.com": "525401043@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/525401043@qq.com/DependencyDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DependencyDemo/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "~> 2.3"
+    ]
+  }
+}
